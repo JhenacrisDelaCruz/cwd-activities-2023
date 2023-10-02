@@ -1,0 +1,28 @@
+h1, h2, h3, h4, h5, h6, p {
+    font-weight: 500;
+}
+
+.card-panel.green.white-text {
+    text-align: center;
+}
+
+.stock-link{
+    font-weight: 200;
+    font-size: 16px;
+    margin-left: 50px;
+}
+
+.stock-link-small{
+    font-weight: 500;
+    font-size: 14px;
+    margin-left: 55px;
+}
+
+.stock-img{
+    margin: 15px 50px 20px;
+}
+
+.table-of-contents{
+    margin-left: 35px;
+
+}
